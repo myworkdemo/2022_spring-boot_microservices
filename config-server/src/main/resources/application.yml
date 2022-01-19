@@ -1,6 +1,6 @@
 
 server:
-  port: 8192
+  port: 8190
 spring:
   profiles:
     active: native  
